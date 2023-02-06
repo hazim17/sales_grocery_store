@@ -3,7 +3,7 @@
 Measuring business performance in a company is very important to track, monitor, and evaluate the success, failure, and progress of various business processes. In this project, we will see the sales, profit, and orders quarterly. Also, we can see how the customer churns with the sales generated. Then we will see which category product gives more sales and orders. And where most of the customer's states are located. 
 
 <p align="center">
-<img src="/dashboard_result/Sales_Dashboard.jpg" alt="sales-dashboard" width="400" height="300">
+<img src="/dashboard_result/Sales_Dashboard.jpg" alt="sales-dashboard" >
  </p>
  
 Based on the dashboard above We can see that around 48% of customers are churned, but Customers who are not Churned still provide greater Revenue than Churned ones.
